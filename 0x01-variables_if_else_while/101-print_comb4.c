@@ -38,6 +38,10 @@ int main(void)
 				j++;
 		}
 
+
+		i++;
+	}
+
 		putchar(10);
 
 		return (0);
